@@ -5,3 +5,7 @@ function getName() {
 function getAge() {
     return 0;
 }
+
+function add(a,b) {
+    return a+b;
+}
